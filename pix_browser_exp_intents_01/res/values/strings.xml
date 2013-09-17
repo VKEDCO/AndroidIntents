@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Displayer 01</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_launcher">Main Launcher Act 01</string>
+    <string name="btn_display_txt">Display Random Image</string>
+    <string name="random_img_msg">Random Image</string>
+
+</resources>
