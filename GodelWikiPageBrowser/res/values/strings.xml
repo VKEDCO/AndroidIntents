@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Godel\'s Wiki Page</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Godel\'s Wiki Page Displayer</string>
+    <string name="kurt_godel_wiki_url">http://en.wikipedia.org/wiki/Kurt_Godel</string>
+
+</resources>
