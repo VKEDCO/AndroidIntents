@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.vkedco.mobappdev.sumfactorialintents"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/math_image"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.vkedco.mobappdev.sumfactorialintents.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:icon="@drawable/sum_image"
+            android:name="org.vkedco.mobappdev.sumfactorialintents.SumCalcAct"
+            android:label="@string/sum_calc_act" >
+        </activity>
+        <activity
+            android:icon="@drawable/factorial_image"
+            android:name="org.vkedco.mobappdev.sumfactorialintents.FactCalcAct"
+            android:label="@string/fact_calc_act" >
+        </activity>
+    </application>
+
+</manifest>
