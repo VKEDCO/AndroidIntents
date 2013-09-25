@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math Intents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="fact_calc_act">Factorial Activity</string>
+    <string name="sum_calc_act">Sum Activity</string>
+
+</resources>
